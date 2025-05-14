@@ -2,6 +2,7 @@
 Trabalhando dados de uma empresa de games fictícia 
 - empresa mundial de games
 - dados em csv
+- scripts em python
 
 #### Data
 A pasta processed_data possui os arquivos com alguma alteração
